@@ -44,8 +44,8 @@
 Вернулся на коммит назад, после чего файл опять появился<br />
 ![](https://raw.githubusercontent.com/WEbDevRu/LR6/master/photos/img19.jpg) <br />
 Создал ветку для отчёта, так же создал папку photos куда поместил все скриншоты<br />
-![](https://raw.githubusercontent.com/WEbDevRu/LR6/master/photos/img20.jpg) <br />
+![](https://raw.githubusercontent.com/WEbDevRu/LR6/report/photos/img20.jpg) <br />
 Лог команд из папки .git/logs<br />
-![](https://raw.githubusercontent.com/WEbDevRu/LR6/master/photos/img21.jpg) <br />
-![](https://raw.githubusercontent.com/WEbDevRu/LR6/master/photos/img22.jpg) <br />
+![](https://raw.githubusercontent.com/WEbDevRu/LR6/report/photos/img21.jpg) <br />
+![](https://raw.githubusercontent.com/WEbDevRu/LR6/report/photos/img22.jpg) <br />
 Финальный результат команды git log<br />
